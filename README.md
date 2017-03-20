@@ -26,4 +26,6 @@ Repository ini berisi berbagai source code Pemrograman Android yang telah di ker
 
 <hr>
 
+## Quote
+
 > Everybody in this country should learn to program a computer... because it teaches you how to think. - Steve Jobs

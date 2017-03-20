@@ -26,4 +26,6 @@ Project ini membahas mengenai Layout yang ada di Android dengan IDE Android Stud
 
 <hr>
 
+## Quote
+
 > All of my friends who have younger siblings who are going to college or high school, my number one piece of advice is: You should learn how to program. - Mark Zuckerberg
