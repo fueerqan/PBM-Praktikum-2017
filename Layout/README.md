@@ -23,3 +23,7 @@ Project ini membahas mengenai Layout yang ada di Android dengan IDE Android Stud
 * [Kurnia Saputra, M.Sc.](http://informatika.unsyiah.ac.id/kurnia/) - Dosen Matakuliah PBM
 * [Maria Ulfa]() - Asisten Praktikum
 * [Muhammad Furqan](https://github.com/fueerqan) - Asisten Praktikum
+
+<hr>
+
+> All of my friends who have younger siblings who are going to college or high school, my number one piece of advice is: You should learn how to program. - Mark Zuckerberg

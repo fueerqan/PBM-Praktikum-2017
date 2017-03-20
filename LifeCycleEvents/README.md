@@ -32,3 +32,7 @@ LifeCycle yang kita bahas adalah :
 * [Kurnia Saputra, M.Sc.](http://informatika.unsyiah.ac.id/kurnia/) - Dosen Matakuliah PBM
 * [Maria Ulfa]() - Asisten Praktikum
 * [Muhammad Furqan](https://github.com/fueerqan) - Asisten Praktikum
+
+<hr>
+
+> I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck

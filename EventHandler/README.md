@@ -32,3 +32,7 @@ Pada project ini juga kita membahas mengenai Image Resource, khususnya :
 * [Kurnia Saputra, M.Sc.](http://informatika.unsyiah.ac.id/kurnia/) - Dosen Matakuliah PBM
 * [Maria Ulfa]() - Asisten Praktikum
 * [Muhammad Furqan](https://github.com/fueerqan) - Asisten Praktikum
+
+<hr>
+
+> Most good programmers do programming not because the expect to get paid or get adulation by the public, but because it is fun to program. - Linus Torvalds

@@ -29,3 +29,7 @@ Rincian pembahasan yang terdapat pada project ini adalah :
 * [Kurnia Saputra, M.Sc.](http://informatika.unsyiah.ac.id/kurnia/) - Dosen Matakuliah PBM
 * [Maria Ulfa]() - Asisten Praktikum
 * [Muhammad Furqan](https://github.com/fueerqan) - Asisten Praktikum
+
+<hr>
+
+> I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. - Bill Gates
