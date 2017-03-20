@@ -23,3 +23,8 @@ Repository ini berisi berbagai source code Pemrograman Android yang telah di ker
 * [Kurnia Saputra, M.Sc.](http://informatika.unsyiah.ac.id/kurnia/) - Dosen Matakuliah PBM
 * [Maria Ulfa]() - Asisten Praktikum
 * [Muhammad Furqan](https://github.com/fueerqan) - Asisten Praktikum
+
+<hr>
+
+> Everybody in this country should learn to program a computer... because it teaches you how to think.
+> - Steve Jobs
