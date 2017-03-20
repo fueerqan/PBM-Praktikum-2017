@@ -22,7 +22,7 @@ Pada project ini juga kita membahas mengenai Image Resource, khususnya :
 * [Home](https://github.com/fueerqan/PBM-Praktikum-2017)
 * [Layout](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/Layout)
 * [LifeCycle](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/LifeCycleEvents)
-* [Event Handler](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/EventHandler)
+* Event Handler
 * [Intent](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/Intent)
 
 <hr>
