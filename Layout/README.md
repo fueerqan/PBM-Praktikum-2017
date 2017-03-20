@@ -4,7 +4,7 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Daftar project dan deskripsinya akan di jelaskan di bawah.
+Project ini membahas mengenai Layout yang ada di Android dengan IDE Android Studio. Dalam project ini, layout yang di gunakan adalah Relative Layout dan Linear Layout, mengingat kedua layout tersebut adalah layout yang sering di gunakan, baik dari tingkat pemula maupun mahir.
 
 <hr>
 

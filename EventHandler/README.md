@@ -4,7 +4,16 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Daftar project dan deskripsinya akan di jelaskan di bawah.
+Project ini membahas mengenai Event Handler, khususnya mengenai event ketika sebuah Widget (dalam hal ini adalah Tombol/Button) di klik oleh pengguna dari aplikasi.
+
+Pada project ini, kita membahas mengenai dua cara untuk menggunakan Event Handler ketika tombol di klik, yaitu :
+1. Layout Events (method untuk fungsi klik di deklarasi pada layout XML dengan attribute onClick)
+2. Java Events (langsung melalui objek tombol di file Java dengan method setOnClickListener())
+
+Pada project ini juga kita membahas mengenai Image Resource, khususnya :
+* Menggunakan Image Resource di folder Drawable
+* Runtime Image
+* Mengubah gambar ketika tombol di klik
 
 <hr>
 

@@ -4,7 +4,16 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Daftar project dan deskripsinya akan di jelaskan di bawah.
+Project ini membahas mengenai LifeCycle yang ada pada sistem operasi Android. Dimana untuk menunjukkan urutan LifeCycle tersebut, kita menggunakan fungsi Log yang memang sudah ada di pemrograman Android, sehingga kita dapat melihat bagaimana LifeCycle dari Android.
+
+LifeCycle yang kita bahas adalah :
+* OnCreate
+* OnStart
+* OnResume
+* OnPause
+* OnStop
+* OnDestroy
+* OnRestart
 
 <hr>
 

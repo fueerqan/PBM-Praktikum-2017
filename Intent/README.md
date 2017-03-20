@@ -4,7 +4,13 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Daftar project dan deskripsinya akan di jelaskan di bawah.
+Project ini membahas mengenai Navigation antar Activity, atau yang lebih di kenal dengan Intent dalam pemrograman Android.
+
+Rincian pembahasan yang terdapat pada project ini adalah :
+* Implicit Intent, seperti bagaimana ketika tombol di klik akan membuka browser.
+* Explicit Intent, seperti berpindah ke Activity lain yang telah kita buat.
+* Finish, mengenai bagaimana menggunakan method finish() untuk menutup Activity.
+* Intent Extras, mengirimkan satu atau lebih data ke Activity lain pada saat kita buka menggunakan intent.
 
 <hr>
 
