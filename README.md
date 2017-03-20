@@ -4,7 +4,7 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Deskripsi dari masing-masing project akan di jelaskan di halaman tersendiri.
+Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Deskripsi dari setiap project akan di jelaskan di halaman masing-masing.
 
 <hr>
 
