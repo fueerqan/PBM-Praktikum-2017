@@ -33,4 +33,4 @@ Materi yang kita bahas adalah :
 
 ## Quote
 
-> Everybody in this country should learn to program a computer... because it teaches you how to think. - Steve Jobs
+> Programming is usually taught by examples. - Niklaus Wirth
