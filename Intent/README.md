@@ -21,6 +21,7 @@ Rincian pembahasan yang terdapat pada project ini adalah :
 * [LifeCycle](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/LifeCycleEvents)
 * [Event Handler](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/EventHandler)
 * Intent
+* [TabAlert](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/TabAlert)
 
 <hr>
 

@@ -24,6 +24,7 @@ Pada project ini juga kita membahas mengenai Image Resource, khususnya :
 * [LifeCycle](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/LifeCycleEvents)
 * Event Handler
 * [Intent](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/Intent)
+* [TabAlert](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/TabAlert)
 
 <hr>
 

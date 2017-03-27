@@ -4,7 +4,11 @@
 
 ## Deskripsi
 
-Repository ini berisi berbagai source code Pemrograman Android yang telah di kerjakan saat praktikum Pemrograman Berbasis Mobile (PBM) berjalan. Repository akan berisi beberapa project, sesuai dengan materi yang di pelajari. Deskripsi dari setiap project akan di jelaskan di halaman masing-masing.
+Project ini membahas mengenai Navigation Tab dan AlertDialog yang ada pada sistem operasi Android.
+
+Materi yang kita bahas adalah :
+* NavigationTab (Tab yang berada di bawah ActionBar)
+* AlertDialog
 
 <hr>
 
@@ -15,7 +19,7 @@ Repository ini berisi berbagai source code Pemrograman Android yang telah di ker
 * [LifeCycle](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/LifeCycleEvents)
 * [Event Handler](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/EventHandler)
 * [Intent](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/Intent)
-* [TabAlert](https://github.com/fueerqan/PBM-Praktikum-2017/tree/master/TabAlert)
+* TabAlert
 
 <hr>
 
